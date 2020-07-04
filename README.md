@@ -3,7 +3,7 @@
 I'm a full-stack JavaScript developer working in Bloemfontein, South Africa.
 
 - 👨‍💻 I'm currently working on company corporate websites and e-commerce websites
-- 🧰 The projects I'm currently working on is built using React, Tailwind, Next.js, Storybook, Node.js, Shopify, Reaction Commerce, Strapi, etc...
+- 🧰 My toolbelt: React, Tailwind, Next.js, Storybook, Node.js, Shopify, Reaction Commerce, Strapi, etc...
 - ♥️ I love helping other developers with any problems or questions they have
 - 🌍 I'm currently a Program Assistant in the Google Africa Developer Scholarship 2020
 - 🌱 I'm currently learning Fastify and TypeScript
