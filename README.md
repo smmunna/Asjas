@@ -7,3 +7,5 @@ I'm a full-stack JavaScript developer working in Bloemfontein, South Africa.
 - 🌱 I'm currently learning Fastify and TypeScript
 - 📫 How to reach me: asjas@hey.com, [Twitter](http://twitter.com/_asjas), [LinkedIn](https://www.linkedin.com/in/asjasroos/)
 - ⚡ Fun fact: 🐈 I absolutely love cats and my favorite pastime is watching YouTube videos of cats 😃
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asjas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
