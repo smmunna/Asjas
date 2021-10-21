@@ -2,7 +2,7 @@
 
 I'm a full-stack JavaScript developer working in Bloemfontein, South Africa.
 
-- 👨‍💻 I'm currently working on e-commerce websites and Telegram bots.
+- 👨‍💻 I'm currently working on e-commerce websites, Shopify App development and Telegram bots.
 - 🧰 My toolbelt: React, Remix, Next.js, Tailwind, Storybook, Node.js, Fastify, Prisma, Shopify.
 - 📫 How to reach me: asjas@hey.com, [Twitter](http://twitter.com/_asjas) or [LinkedIn](https://www.linkedin.com/in/asjasroos/)
 - ⚡ Fun fact: 🐈 I absolutely love cats and my favorite pastime is watching YouTube videos of cats 😃
