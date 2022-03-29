@@ -9,4 +9,4 @@ I'm a JavaScript Web Developer working in Bloemfontein, South Africa.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asjas&layout=compact&private=true)
 
-![Asjas' GitHub stats](https://github-readme-stats.vercel.app/api?username=asjas&count_private=true)
+![Asjas' GitHub stats](https://github-readme-stats.vercel.app/api?username=asjas&count_private=true&show_icons=true)
