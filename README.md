@@ -7,6 +7,6 @@ I'm a JavaScript Web Developer working in Bloemfontein, South Africa.
 - 📫 How to reach me: asjas@hey.com, [Twitter](http://twitter.com/_asjas) or [LinkedIn](https://www.linkedin.com/in/asjasroos/)
 - ⚡ Fun fact: 🐈 I absolutely love cats and my favorite pastime is watching YouTube videos of cats 😃
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asjas&layout=compact&private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asjas&layout=compact&private=true&langs_count=5&theme=tokyonight)
 
-![Asjas' GitHub stats](https://github-readme-stats.vercel.app/api?username=asjas&count_private=true&show_icons=true)
+![Asjas' GitHub stats](https://github-readme-stats.vercel.app/api?username=asjas&count_private=true&show_icons=true&theme=tokyonight)
