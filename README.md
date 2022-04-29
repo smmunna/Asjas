@@ -7,7 +7,7 @@ I'm a JavaScript Web Developer working in Bloemfontein, South Africa.
 - 📫 How to reach me: asjas@hey.com, [Twitter](http://twitter.com/_asjas) or [LinkedIn](https://www.linkedin.com/in/asjasroos/)
 - ⚡ Fun fact: 🐈 I absolutely love cats and my favorite pastime is watching YouTube videos of cats 😃
 
-Do you want to buy me a coffee to thank me? 🙂
+Do you want to buy me a coffee to thank or support me? 🙂
 
 https://ko-fi.com/asjas
 
