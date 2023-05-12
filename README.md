@@ -1,3 +1,3 @@
 # Image Proessing 👋
- ->I'm using the google collab for image processing.
+ >I'm using the google collab for image processing.
 
